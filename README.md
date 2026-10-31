@@ -23,25 +23,14 @@
 
 ## 🛠️ Skills & Technologies
 
-**Programming Languages**
-
-Python | C | Java | SQL
-
-**Web Technologies**
-
-HTML | CSS | JavaScript | React
-
-**Database**
-
-MySQL | Firebase
-
-**Cloud & Tools**
-
-AWS  | Git | GitHub
-
-**Core Subjects**
-
-Data Structures | OOP | DBMS | Operating Systems | Computer Networks
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
+![C](https://img.shields.io/badge/C-blue?logo=c)
+![React](https://img.shields.io/badge/React-black?logo=react)
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 ---
 
